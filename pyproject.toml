@@ -1,0 +1,17 @@
+[project]
+name = "ida"
+version = "0.1.0"
+requires-python = ">=3.12"
+dependencies = [
+    "ipywidgets>=8.1.9",
+    "jupyterlab>=4.6.3",
+    "lightgbm>=4.7.0",
+    "matplotlib>=3.11.2",
+    "mlxtend>=0.25.0",
+    "numpy>=2.5.3",
+    "optuna>=5.0.0",
+    "pandas>=3.0.5",
+    "scikit-learn>=1.9.1",
+    "scipy>=1.18.1",
+    "shap>=0.52.0",
+]
